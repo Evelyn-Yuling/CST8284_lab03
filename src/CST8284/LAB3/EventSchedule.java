@@ -39,6 +39,11 @@ import java.util.Calendar;
  * @author Yuling Li
  */
 public class EventSchedule {
+	
+	
+	
+	
+	
 
 	/** Year component of the date of EventSchedule.								*/
 	private int year;
